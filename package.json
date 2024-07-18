@@ -1,5 +1,5 @@
 {
-  "name": "@uirouter/angular",
+  "name": "@clarivate/ui-router-angular",
   "description": "State-based routing for Angular",
   "version": "14.0.0",
   "scripts": {
